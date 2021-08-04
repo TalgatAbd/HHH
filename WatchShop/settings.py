@@ -81,7 +81,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'watchshop1_db',
-        'USER': 'abd',
+        'USER': 'test_user',
         'PASSWORD': '1',
         'HOST': 'localhost',
         'PORT': 5432
